@@ -12,5 +12,5 @@ Welcome to my Landing Page Project repository! This project showcases my web dev
 
   **1. Clone the repository:**
 
-      git clone https://github.com/Priya-2703/Landing_Page
+      git clone https://github.com/Priya-2703/Landing_Page.git
       
